@@ -1,15 +1,9 @@
-
-
-
-<p align="center" ><br>
-$\color[RGB]{0,255,0}░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ $<br>
-$\color[RGB]{0,255,0}░░░░░░░█▀▀░█▀█░█░░░█░░░░░░░░░░░ $<br>
-$\color[RGB]{0,255,0}░░░░░░░█▄▄░█▀█░█▄▄░█▄▄░░░░░░░░░ $<br>
-$\color[RGB]{0,255,0}░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ $<br>
-$\color[RGB]{0,255,0}░░░█▄▄░█▀█░█▀█▀█░█▄▄░█▀▀░█▀█░░░ $<br>
-$\color[RGB]{0,255,0}░░░█▄█░█▄█░█░▀░█░█▄█░██▄░█▀▄░░░ $<br>
-$\color[RGB]{0,255,0}░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ $<br>
+<p align="center">
+    <img width="400" height="170" src="/call.png" alt="Material Bread logo">
 </p>
+
+
+
 
 <br>
 <h1 align="center"><a href="https://callb0mber.000webhostapp.com" >Bangladeshi Number Call Bombing Tool</a></h1>
@@ -92,3 +86,16 @@ Remember number have start with 1<br>Only 10 digits. Ex: number=1*********
 <p align="center">
 <a href="https://www.buymeacoffee.com/bdcallbomber"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="220"/></a>
 </p>
+
+
+<!-- 
+<p align="center" ><br>
+$\color[RGB]{0,255,0}░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ $<br>
+$\color[RGB]{0,255,0}░░░░░░░█▀▀░█▀█░█░░░█░░░░░░░░░░░ $<br>
+$\color[RGB]{0,255,0}░░░░░░░█▄▄░█▀█░█▄▄░█▄▄░░░░░░░░░ $<br>
+$\color[RGB]{0,255,0}░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ $<br>
+$\color[RGB]{0,255,0}░░░█▄▄░█▀█░█▀█▀█░█▄▄░█▀▀░█▀█░░░ $<br>
+$\color[RGB]{0,255,0}░░░█▄█░█▄█░█░▀░█░█▄█░██▄░█▀▄░░░ $<br>
+$\color[RGB]{0,255,0}░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ $<br>
+</p>
+-->
