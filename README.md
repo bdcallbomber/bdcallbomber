@@ -10,7 +10,7 @@
 <br>
 <h1 align="center"><a href="https://callb0mber.000webhostapp.com" >Bangladeshi Number Call Bombing Tool</a></h1>
 <br>
-<h2 align="center"><a href="https://t.me/bdcallbomber" target="_blank">Telegram Channel</a> | <a href='http://t.me/e3rror_m4ck3r' target="_blank">Buy Main API</a></h2>
+<h3 align="center"><a href="https://t.me/bdcallbomber" target="_blank">Telegram Channel</a> | <a href='http://t.me/e3rror_m4ck3r' target="_blank">Buy Main API</a></h3>
 <br>
 
 ---
