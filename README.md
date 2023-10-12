@@ -88,7 +88,7 @@ Remember number have start with 1<br>Only 10 digits. Ex: number=1*********
 <p align="center">
 <a href="https://www.buymeacoffee.com/bdcallbomber"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="220"/></a>
 <br><br><br>
-![](https://komarev.com/ghpvc/?username=bdcallbomber)
+
 </p>
 
 
