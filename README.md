@@ -1,26 +1,6 @@
 <br>
 <br><br>
 <p align="center">
-    <img width="400" height="170" src="/call.png" alt="Material Bread logo">
-</p>
-<br>
-<br><br>
-<p align="center">
-    <img width="500" height="350" src="/1.png" alt="Material Bread logo">
-</p>
-<br>
-<br><br>
-<p align="center">
-    <img width="500" height="350" src="/2.png" alt="Material Bread logo">
-</p>
-<br>
-<br><br>
-<p align="center">
-    <img width="500" height="350" src="/3.png" alt="Material Bread logo">
-</p>
-<br>
-<br><br>
-<p align="center">
     <img width="500" height="350" src="/4.png" alt="Material Bread logo">
 </p>
 
@@ -39,6 +19,12 @@
 <summary>How to use?  Click here.</summary>
 <br>
 <h3>This tool only for bangladeshi numbers.</h3>
+<br>
+<br><br>
+<p align="center">
+    <img width="400" height="170" src="/call.png" alt="Material Bread logo">
+</p>
+
 <br><br>
 
 <h3>1. First Step</h3>
