@@ -3,28 +3,6 @@
 <p align="center">
     <img width="400" height="170" src="/call.png" alt="Material Bread logo">
 </p>
-<br>
-<br><br>
-<p align="center">
-    <img width="400" height="170" src="/1.png" alt="Material Bread logo">
-</p>
-<br>
-<br><br>
-<p align="center">
-    <img width="400" height="170" src="/2.png" alt="Material Bread logo">
-</p>
-<br>
-<br><br>
-<p align="center">
-    <img width="400" height="170" src="/3.png" alt="Material Bread logo">
-</p>
-<br>
-<br><br>
-<p align="center">
-    <img width="400" height="170" src="/4.png" alt="Material Bread logo">
-</p>
-
-
 
 
 <br>
