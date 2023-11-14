@@ -12,6 +12,12 @@
 <br>
 <h3 align="center"><a href="https://t.me/bdcallbomber" target="_blank">Telegram Channel</a> | <a href='http://t.me/e3rror_m4ck3r' target="_blank">Buy Main API</a></h3>
 <br>
+<br>
+<h1 align="center">Tools : <a href='http://t.me/bd_call_bomber_bot' target="_blank">Telegram Bot</a></h1>
+<br>
+<br>
+
+<!--
 
 ---
 
@@ -71,7 +77,7 @@ Remember number have start with 1<br>Only 10 digits. Ex: number=1*********
 
 ---
 
-
+-->
 
 <br><br>
 <h1 align="center"> Contact Me </h1>
