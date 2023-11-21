@@ -13,7 +13,7 @@
 <h1 align="center">Tools : <a href='http://t.me/bd_call_bomber_bot' target="_blank">Telegram Bot</a></h1>
 <br>
 
-<h1 align="center"><a href='http://t.me/bd_call_bomber_bot' target="_blank">https://t.me/bd_call_bomber_bot</a></h1>
+<h2 align="center"><a href='http://t.me/bd_call_bomber_bot' target="_blank">https://t.me/bd_call_bomber_bot</a></h2>
 <br>
 
 <!--
